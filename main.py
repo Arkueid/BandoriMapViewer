@@ -9,7 +9,7 @@ pygame.init()
 
 # 音频
 musicPath = "data/bokuha.mp3"
-# 铺面信息
+# 谱面信息
 mapPath = "data/bokuha.json"
 
 noteMap = NoteMapScreen(mapPath)
